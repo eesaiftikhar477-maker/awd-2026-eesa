@@ -193,3 +193,9 @@ Thank you for visiting my portfolio repository.
 Feel free to explore my projects and connect with me.
 
 I am always eager to learn, improve my skills and work on exciting development projects.
+
+## Currently Learning with Technik Nest
+
+- JavaScript
+- React
+- Full Stack Development
